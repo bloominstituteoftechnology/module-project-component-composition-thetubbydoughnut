@@ -7,7 +7,7 @@ body {
   font-family: 'Titillium Web', sans-serif;
   display: flex;
   flex-direction: column;
-  background-color: #0d0d0e;
+  background-color: #23232c;
 }
 
 #root {
@@ -17,7 +17,7 @@ body {
 }
 
 h1, h2 {
-  color: #0126f7;
+  color: #7184eb;
 }
 
 #root {
@@ -41,15 +41,20 @@ p {
   display: flex;
   flex-direction: column;
   color: aqua;
+  padding: 5px;
+  align-content: center
 }
 
 figure {
   display: flex;
   flex-direction: column;
+  padding: 10px;
 }
 
 #F {
   display: flex;
   flex-direction: column;
   color: aqua;  
+  padding: 10px;
+  align-content: center
 }
